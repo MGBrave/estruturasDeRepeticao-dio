@@ -1,2 +1,2 @@
-# estruturasDeRepeticao-dio
-Exercícios estruturas de repetição Java - Digital Innovation One
+# Estruturas De Repeticao  Loops e Arrays
+Exercícios Estruturas de Repetição Java - Digital Innovation One
